@@ -1,0 +1,6 @@
+{
+  "name": "Kids Offline Learning Hub",
+  "description": "An interactive, fully offline educational learning hub for kids aged 2 to 8, featuring targeted math, spelling, counting, shape-matching, and responsive audio-visual exploration games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
